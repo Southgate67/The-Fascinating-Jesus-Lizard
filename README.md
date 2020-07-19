@@ -1,3 +1,4 @@
+theme: THEME-MINIMA
 <html>
 <header>
    <h1 id="logo">The Fascinating Water lizard</h1>
